@@ -2,3 +2,12 @@ torch
 numpy
 matplotlib
 numpy-financial
+stable-baselines3 
+gymnasium
+seaborn
+xgboost
+pandas
+scikit-learn
+torchrl
+rfpimp
+tensordict
