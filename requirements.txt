@@ -11,3 +11,5 @@ scikit-learn
 torchrl
 rfpimp
 tensordict
+mesa[rec]
+
