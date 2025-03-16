@@ -11,5 +11,6 @@ scikit-learn
 torchrl
 rfpimp
 tensordict
-mesa[rec]
+mesa[rec]==3.0.0
+scipy
 
